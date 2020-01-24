@@ -2,7 +2,6 @@
 Weight = 80
 Height = 180
 
-MBI = Weight / Height
+BMI = Weight / Height
 print("body mass index in metres squared")
-
 BMI = 24.6
