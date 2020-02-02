@@ -5,3 +5,5 @@ len(gem)
 print(len(gem))
 print(gem[0:24])
 print(gem[-1:-24:-2])
+
+.rta tluerde
