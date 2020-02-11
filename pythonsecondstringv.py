@@ -6,6 +6,6 @@ print(len(msg))
 print(msg[0:44])
 print(msg[-1:-44:-2])
 
-.o zletrv pu o wr cu h
+
 
 
