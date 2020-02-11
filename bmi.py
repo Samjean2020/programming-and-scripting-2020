@@ -4,4 +4,4 @@ Height = 180
 
 BMI = Weight / Height
 print("body mass index in metres squared")
-BMI = 20.06
+
