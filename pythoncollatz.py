@@ -21,7 +21,7 @@ if (p % m) != 0:
     print(p = p * 3) # currentNumber = currentNumber * 3 ( or currentNumber * = 3)
     print(p = p + 1) # currentNumber = currentNumber + 1 ( or currentNumber + = 1)
     print("p")  
-while p < 10:
+while p > 1:
     print(p, end = " ")
     
 print("I'll run no matter what.")
