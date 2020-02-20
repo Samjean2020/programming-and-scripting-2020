@@ -17,6 +17,6 @@ print (" Yes, unfortunately it is weekday.")
 
 weekend = weekdays [ 4 : 6 ]
 for weekend in weekdays :
-    print ( weekend )
+    print (weekend)
 print (" Are you available for a picnic today? ")
 print (" It is the weekend, Yay! ") 
