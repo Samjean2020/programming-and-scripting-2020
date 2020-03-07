@@ -1,4 +1,4 @@
-# Jean Bonsenge
+# Jean Samuel Bonsenge
 # This program outputs whether or not today is a weekday.
 
 t = ['Thursday']
