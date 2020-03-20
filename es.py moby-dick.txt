@@ -7,7 +7,7 @@ filename = input ("Enter filename: ")
 l = input ("Enter letter to be searched: ")
 m = 0
 
-with open ('es.py moby-dick.text') as f:
+with open ('es.py moby-dick.txt') as f:
         for line in f:
             words = line.split ()
             for i in words:
