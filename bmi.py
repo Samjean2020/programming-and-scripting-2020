@@ -1,21 +1,17 @@
-# This program calculates an individual's Body Mass Index (BMI) in metres squared
+# This program calculates an individual's Body Mass Index (BMI).
+# The inputs are the person's height in Centimetres, and weight in Kilograms.
+# The output is the weight divided by height in metres squared.
 
 import math
 
-# Please enter a person's weight:
-pWeight = 65
-print (" Enter weight: ", pWeight)
+weight = float ( input ( " Enter weight : "))
+height = float ( input ( " Enter height : "))
 
-# Please enter a person's height:
-pHeight = 180
-print (" Enter height: ", pHeight)
+heightSquared = (height/100) ** 2
 
-# Please enter a person's height in metres squared:
-sqmpHeight = 1.8
+bmi = weight / heightSquared
 
-BMI = pWeight / sqmpHeight ** 2
-
-print ("BMI is", BMI)
+print ("BMI is", bmi)
 
 
 
