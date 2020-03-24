@@ -6,7 +6,6 @@
 # Have the program end if the current value is one. 
 
 y = int (input(" Enter any positive integer number: "))
-
 z = 2
 
 while y > 1:
