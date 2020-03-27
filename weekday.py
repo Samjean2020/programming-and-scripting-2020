@@ -11,7 +11,6 @@ def dayNameFromWeekday(weekday):
     return days[weekday]
 
 nb = int(input("Enter weekday number [0-4]: "))
-
 print('\n')
 
 print("Yes, unfortunately today is a weekday.")
