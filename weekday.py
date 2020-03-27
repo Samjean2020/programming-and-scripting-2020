@@ -1,14 +1,25 @@
 # This program outputs whether or not today is a weekday.
-import calendar
 
-D=dict(enumerate (calendar.day_name))
+import datetime
 
-print ('Are you available for a meeting today?')
-print (calendar.day_name[3])
-print('Yes, unfortunately it is weekday.')
+days = {0:"Monday", 1:"Tuesday", 2:"Wednesday", 3:"Thursday", 4: "Friday", 5:"Saturday", 6:"Sunday"}
 
-print ('Are you available for a picnic today?')
-print (calendar.day_name[5])
-print ('It is the weekend, Yay!')
+def dayNameFromWeekday(weekday):
+    if weekday > 4:
+        print("error")
+        return" an unknown day"
+    return days[weekday]
+
+nb = int(input("Enter weekday number [0-4]: "))
+
+print('\n')
+
+print("Yes, unfortunately today is a weekday.")
+
+"""I found part of above code at https://rextester.com/OPSU70132"""
+
+
+
+
 
 
