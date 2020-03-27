@@ -13,7 +13,7 @@ def dayNameFromWeekday(weekday):
 nb = int(input("Enter weekday number [0-4]: "))
 print('\n')
 
-print("Today is: " + dayNameFromWeekday(nb), "Yes, unfortunately today is a weekday")
+print("Today is: " + dayNameFromWeekday(nb), "Yes, unfortunately today is a weekday.")
 
 """ I found part of the above code at https://rextester.com/OPSU70132 """
 
