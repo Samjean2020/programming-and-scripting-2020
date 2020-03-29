@@ -15,7 +15,7 @@ while abs(x - prevx) > 1e-10:
 
 print('The square root of' , y , 'is approx.' , x )
 
-""" I found part of above Newton's method for square roots from stackoverflow.com at 
+""" I found part of the above Newton's method for square roots from stackoverflow.com at 
 https://stackoverflow.com/questions/32291218/use-newtons-method-to-find-square-root-of-a-number"
 
 
