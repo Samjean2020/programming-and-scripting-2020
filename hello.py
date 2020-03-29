@@ -1,1 +1,2 @@
-print("Hello, World!") # displays the result of the function.
+# display the result of the function print()
+print("Hello, World!")
