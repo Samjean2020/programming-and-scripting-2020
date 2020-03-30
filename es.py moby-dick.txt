@@ -3,18 +3,24 @@
 # the number of e's it contains.
 # This program takes the filename from an argument on the command line.
 
+# provide file and letter to be searched as specified above.
 filename = input ("Enter filename: ")
 l = input ("Enter letter to be searched: ")
+# variable (m) with value 0 when counting of the letter to be searched starts.
 m = 0
-
+# reads the file line by line using the read()
 with open ('es.py moby-dick.txt') as f:
+# a for loop is initiated to loop over until the set Boolean condition is met.
         for line in f:
             words = line.split ()
             for i in words:
                 for letter in i:
                     if(letter==l):
                         m=m+1
+# display the results of the function print()
 print("occurences of the letter: ")
 print(m)
-# I found the above code online: https://www.sanfoundry.com/python-program-read-file-counts-number/
+# I found the above code online at: https://www.sanfoundry.com/python-program-read-file-counts-number/
+
+
 
