@@ -1,2 +1,2 @@
-# display the result of the function print()
+# display the output of the function print()
 print("Hello, World!")
