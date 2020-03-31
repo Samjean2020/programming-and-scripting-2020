@@ -110,7 +110,7 @@ Note: Comments on code for weekday.py file(running this program on a Thursday) a
                 outputs an approximation of its square root. squareroot.py
 
 1. Enter a positive floating-point number.
-2. Iteration under a while loop as per Newton Method.
+2. Iteration under a while loop as per Newton's Method.
 3. Display an approximation square root of the floating-point number.
 
 Source: Newton's method for square roots from stackoverflow.com at
@@ -132,7 +132,7 @@ Please see comments on code for this weekly task under the filename: es.py moby-
 
                   Weekly task 8: write a program that displays a plot of the functions f(x) = x, g(x) = x2 and h(x) = x3 in the range of [0, 4] on the one set of axes, plot.py
 
-1. Import numpy and matplotlib.pyplot to deal respectively with numbers and plots.
+1. Import numpy and matplotlib.pyplot to deal with numbers and plots,respectively. 
 2. Describe functions for plotting.
 3. Make a variable and assign values in floating-point precision type, and in one time on x-axis.
 4. Have values on y-axis squared. 
