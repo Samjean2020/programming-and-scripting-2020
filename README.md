@@ -65,4 +65,18 @@ https://www.sanfoundry.com/python-problems-solutions/
 
 Please see comments on code for this weekly task under the filename: es.py moby-dick.txt
 
+                  Weekly task 8: write a program that displays a plot of the functions f(x) = x, g(x) = x2 and h(x) = x3 in the range of [0, 4] on the one set of axes, plot.py
+
+1. Import numpy and matplotlib.pyplot to deal respectively with numbers and plots.
+2. Describe functions for plotting.
+3. Make a variable and assign values in floating-point precision type, and in one time on x-axis.
+4. Have values on y-axis squared. 
+5. Have values on y-axis to the third power or cube.
+6. Display the title of the plot and labels of functions.
+7. Use the plot() command and display the plot itself.
+
+
+
+
+
 
