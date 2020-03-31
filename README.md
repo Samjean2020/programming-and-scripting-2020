@@ -50,8 +50,19 @@ Python 3x programming language codes are used for the writing of the above weekl
                                           Description of solutions
 
                     Weekly task 1: running a small program, hello.py and goodbye.py
-
 A single-line code in python is enough to provide specific instructions to be executed on a machine with an Operating System (OS): MS-DOS, UNIX OS, and LINUX OS. The call of the print() function, displays the output of the string-type of data: Hello, World for the file hello.py and Goodbye, World regarding the file goodbye.py
 
+                    Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
+
+1.Take the file name and the letter to be counted from the user.
+2. Read each line from the file and split the line to form a list of words.
+3. Use a for loop to traverse through the words in the list and another for loop to traverse through the letters in the word.
+4. Check if the letter provided by the user and the letter encountered over iteration is equal and if they are, increment the letter count.
+5. Exit.
+
+Source: Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File
+https://www.sanfoundry.com/python-problems-solutions/
+
+Please see comments on code for this weekly task under the filename: es.py moby-dick.txt
 
 
