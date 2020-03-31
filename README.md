@@ -1,6 +1,6 @@
-Jean Bonsenge
+                                                Jean Bonsenge
 
-programming-and-scripting-2020
+                                        Programming-and-scripting-2020 
 
                                                 Repository Purpose
 
@@ -42,13 +42,13 @@ Weekly task 8: write a program that displays a plot of the functions f(x) = x, g
 
                                                 Instructions on how to run the files
 
-Python 3x codes are used for the writing of the above weekly tasks. Visual Studio Code (VSC), cmder, ipython, log python, notepad++ are text-editors used for the writing of codes in Python programming language. The programs can be run under the command line of VSC terminal, cmder, ipython…and cloned to this repository (programming-and-scripting-2020) via its URL address: using git relevant commands, namely: git init, git clone, git add . , git commit –m (“comments”) git push or git pull. I added files using upload files option available at GitHub.
+Python 3x codes are used for the writing of the above weekly tasks. Visual Studio Code (VSC), cmder, ipython, log python, notepad++ are text-editors used for the writing of codes in Python programming language. The programs can be run under the command line of VSC terminal, cmder, ipython…and cloned to this repository (programming-and-scripting-2020) via its URL address: https://github.com/Samjean2020/programming-and-scripting-2020.git, using relevant git commands, namely: git init, git clone, git add . , git commit –m (“comments”) and git push or git pull. I added files using upload files option available at GitHub.
 
                                                 Documentation     
 
-Description of solutions
+                                          Description of solutions
 
-Weekly task 1: running a small program, hello.py and goodbye.py
+                    Weekly task 1: running a small program, hello.py and goodbye.py
 
 A single-line code in python is enough to provide specific instructions to be executed on a machine with an Operating System (OS): MS-DOS, UNIX OS, and LINUX OS. The call of the print() function, displays the output of the string-type of data: Hello, World for the file hello.py and Goodbye, World regarding the file goodbye.py
 
