@@ -50,7 +50,7 @@ Python 3x programming language codes are used for the writing of the above weekl
                                           Description of solutions
 
                     Weekly task 1: running a small program, hello.py and goodbye.py
-A single-line code in python is enough to provide specific instructions to be executed on a machine with an Operating System (OS): MS-DOS, UNIX OS, and LINUX OS. The call of the print() function, displays the output of the string-type of data: Hello, World for the file hello.py and Goodbye, World regarding the file goodbye.py
+A single-line code in python is enough to provide specific instructions to be executed on a machine with an Operating System (OS): Microsoft Disk Operating System (MS-DOS), UNIX OS, and LINUX OS. The call of the print() function, displays the output of the string-type of data: Hello, World for the file hello.py and Goodbye, World regarding the file goodbye.py
 
                     Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
 
