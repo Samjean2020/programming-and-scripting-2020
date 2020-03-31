@@ -52,14 +52,26 @@ Python 3x programming language codes are used for the writing of the above weekl
                     Weekly task 1: running a small program, hello.py and goodbye.py
 A single-line code in python is enough to provide specific instructions to be executed on a machine with an Operating System (OS): Microsoft Disk Operating System (MS-DOS), UNIX OS, and LINUX OS. The call of the print() function, displays the output of the string-type of data: Hello, World for the file hello.py and Goodbye, World regarding the file goodbye.py
 
+                    Weekly task 3: write a program that takes asks a user to input and outputs every second letter in reverse order, secondstring.py
+
+1. Provide a text sequence type: string. 
+2. Use the built-in function len() function to obtain the length of the string (:44). 
+3. Start from end of the string and output every second letter.
+4. Display the results of the function print(). 
+5. Exit.
+
+
+
+
+
 
                   Weekly task 4: write a program that asks the user to input any positive integer and outputs the successive values of                     the following calculation. At each step calculate the next value by taking the current value and, if it is even,                         divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is                       one. collatz.py  
 
 1. Input a whole number value.
 2. Set a divide to segregate even (modulus with remainder 0) and odd numbers (with the remainder 1).
-3. Deploy a while to loop over,the block, until the set Boolean conditions are met.
-4. Display the results of the function print() 
-5. Exit
+3. Deploy a while loop to loop over,the block, until the set Boolean conditions are met.
+4. Display the results of the function print(). 
+5. Exit.
 
 
                     Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
