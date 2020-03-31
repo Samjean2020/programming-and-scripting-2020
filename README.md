@@ -60,8 +60,7 @@ A single-line code in python is enough to provide specific instructions to be ex
 4. Display the results of the function print(). 
 5. Exit.
 
-
-
+Source: https://www.w3schools.com/python/ref_func_len.asp
 
 
 
@@ -72,7 +71,7 @@ A single-line code in python is enough to provide specific instructions to be ex
 3. Deploy a while loop to loop over,the block, until the set Boolean conditions are met.
 4. Display the results of the function print(). 
 5. Exit.
-
+Source: A Whirlwind Tour of Python, p.37-8.
 
                     Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
 
@@ -96,7 +95,7 @@ Please see comments on code for this weekly task under the filename: es.py moby-
 5. Have values on y-axis to the third power or cube.
 6. Display the title of the plot and labels of functions.
 7. Use the plot() command and display the plot itself.
-
+Source: https://matplotlib.org/tutorials/introductory/pyplot.html 
 
 
 
