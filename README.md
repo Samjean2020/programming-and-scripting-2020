@@ -52,6 +52,20 @@ Python 3x programming language codes are used for the writing of the above weekl
                     Weekly task 1: running a small program, hello.py and goodbye.py
 A single-line code in python is enough to provide specific instructions to be executed on a machine with an Operating System (OS): Microsoft Disk Operating System (MS-DOS), UNIX OS, and LINUX OS. The call of the print() function, displays the output of the string-type of data: Hello, World for the file hello.py and Goodbye, World regarding the file goodbye.py
 
+                    Weekly task 2: write a program that calculates somebody’s BMI (Body Mass Index). The inputs are the person's height                     in centimetres, and weight in kilograms. The output is the weight divided by height in metres squared.
+
+1. Call a module to perform mathematical functions. 
+2. Provide float numbers as inputs for both weight and height.
+3. Have height squared.
+4. Solve the problem.
+5. Display the output of the function print()
+6. Exit
+
+Source code at: https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
+Source code at: https://docs.python.org/3/library/math.html
+
+
+
                     Weekly task 3: write a program that takes asks a user to input and outputs every second letter in reverse order, secondstring.py
 
 1. Provide a text sequence type: string. 
@@ -71,7 +85,7 @@ Source: https://www.w3schools.com/python/ref_func_len.asp
 3. Deploy a while loop to loop over,the block, until the set Boolean conditions are met.
 4. Display the results of the function print(). 
 5. Exit.
-Source: A Whirlwind Tour of Python, p.37-8.
+Source: A Whirlwind Tour of Python, p.37-8 (Control Flow)
 
                     Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
 
