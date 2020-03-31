@@ -85,7 +85,25 @@ Source: https://www.w3schools.com/python/ref_func_len.asp
 3. Deploy a while loop to loop over,the block, until the set Boolean conditions are met.
 4. Display the results of the function print(). 
 5. Exit.
-Source: A Whirlwind Tour of Python, p.37-8 (Control Flow)
+Source: A Whirlwind Tour of Python, p.37-8 (Control Flow).
+
+
+                  Weekly task 5: write a program that outputs whether or not today is a weekday…weekday.py
+
+
+1.	Make array (a dictionary) of all the days in order.
+2.	Have indexed array items starting at 0 to Monday, ending with 6 to Sunday.
+3.	Define a function for weekday.
+4.	Deploy an if loop, to loop over, the block, until the set Boolean conditions are completed.
+5.	Get keyboard input, but convert it to integer.
+6.	Print the results of the function.
+7.  Exit.
+
+Source: at https://rextester.com/OPSU70132
+
+
+
+
 
                     Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
 
