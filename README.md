@@ -41,8 +41,9 @@ Topic 8: Looking ahead. Matplotlib.pyplot
 Weekly task 8: write a program that displays a plot of the functions f(x) = x, g(x) = x2 and h(x) = x3 in the range of [0, 4] on the one set of axes, plot.py
 
                                                 Instructions on how to run the files
+                                                
+Python 3x programming language codes are used for the writing of the above weekly tasks. Visual Studio Code (VSC), Cmder, IPython, IPython log file, Notepad++ are text-editors used for this puropse. The programs can be run under the command line of VSC terminal, Cmder, IPython…and cloned to this repository (programming-and-scripting-2020) via the following URL address: https://github.com/Samjean2020/programming-and-scripting-2020.git. Relevant git commands, namely: git init, git clone, git add  . , git commit –m (“comments”) and git push or git pull must be used to have files added in this repository. I added files using upload files option available at GitHub.
 
-Python 3x codes are used for the writing of the above weekly tasks. Visual Studio Code (VSC), cmder, ipython, log python, notepad++ are text-editors used for the writing of codes in Python programming language. The programs can be run under the command line of VSC terminal, cmder, ipython…and cloned to this repository (programming-and-scripting-2020) via its URL address: https://github.com/Samjean2020/programming-and-scripting-2020.git, using relevant git commands, namely: git init, git clone, git add . , git commit –m (“comments”) and git push or git pull. I added files using upload files option available at GitHub.
 
                                                 Documentation     
 
