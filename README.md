@@ -106,6 +106,17 @@ Source: at https://rextester.com/OPSU70132
 
 Note: Comments on code for weekday.py file(running this program on a Thursday) apply to the file: weekday2.py, whereby an example of running this program on a Saturday is used. This is the same for the above descritption of solution.
 
+                Weekly task 6: write a program that takes a positive floating-point number as an input and 
+                outputs an approximation of its square root. squareroot.py
+
+1. Enter a positive floating-point number.
+2. Iteration under a while loop as per Newton Method.
+3. Display an approximation square root of the floating-point number.
+
+Source: Newton's method for square roots from stackoverflow.com at
+https://stackoverflow.com/questions/32291218/use-newtons-method-to-find-square-root-of-a-number"
+ 
+
                     Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
 
 1.Take the file name and the letter to be counted from the user.
