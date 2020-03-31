@@ -1,6 +1,6 @@
                                                 Jean Bonsenge
 
-                                        Programming-and-scripting-2020 
+                                        Programming and Scripting 2020 
 
                                                 Repository Purpose
 
