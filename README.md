@@ -89,21 +89,22 @@ Source: A Whirlwind Tour of Python, p.37-8 (Control Flow).
 
 
                   Weekly task 5: write a program that outputs whether or not today is a weekday…weekday.py
+                  An example of running this program on a Thursday is given below... 
+                  An example of running this program on a Saturday is as follows...
 
-
-1.	Make array (a dictionary) of all the days in order.
-2.	Have indexed array items starting at 0 to Monday, ending with 6 to Sunday.
-3.	Define a function for weekday.
-4.	Deploy an if loop, to loop over, the block, until the set Boolean conditions are completed.
-5.	Get keyboard input, but convert it to integer.
-6.	Print the results of the function.
-7.  Exit.
+1. Import Python's datetime module
+2. Make array (a dictionary) of all the days in order.
+3. Have indexed array items starting at 0 to Monday, ending with 6 to Sunday.
+4. Define a function for weekday and set up an if loop,to loop over until the set Boolean conditions are completed.
+5. Get keyboard input, but convert it to integer.
+6. Print the results of the function
+7. Exit
+Sources: https://rextester.com/OPSU70132
+and : https://pythontic.com/datetime/date/weekday
 
 Source: at https://rextester.com/OPSU70132
 
-
-
-
+Note: Comments on code for weekday.py file(running this program on a Thursday) apply to the file: weekday2.py, whereby an example of running this program on a Saturday is used. This is the same for the above descritption of solution.
 
                     Weekly task 7: write a program that reads in a text and outputs the number of e’s it contains…es.py moby-dick.txt
 
