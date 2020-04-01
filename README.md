@@ -18,7 +18,7 @@ Weekly task 2: write a program that calculates somebody’s BMI (Body Mass Index
 
 Topic 3: State
 
-Weekly task 3: write a program that takes asks a user to input and outputs every second letter in reverse order, secondstring.py
+Weekly task 3: write a program that takes asks a user to input and outputs every second letter in reverse order... secondstring.py
 
 Topic 4: Controlling the flow
 
@@ -42,7 +42,7 @@ Weekly task 8: write a program that displays a plot of the functions f(x) = x, g
 
                                                 Instructions on how to run the files
                                                 
-Python 3x programming language codes are used for the writing of the above weekly tasks. Visual Studio Code (VSC), Cmder, IPython, IPython log file, Notepad++ are text-editors used for this puropse. The programs can be run under the command line of VSC terminal, Cmder, IPython…and cloned to this repository (programming-and-scripting-2020) via the following URL address: https://github.com/Samjean2020/programming-and-scripting-2020.git. Relevant git commands, namely: git init, git clone, git add  . , git commit –m (“comments”) and git push or git pull must be used to have files added in this repository. I added files using upload files option available at GitHub.
+Python 3x programming language codes are used for the writing of the above weekly tasks. Visual Studio Code (VSC), Cmder, IPython, IPython log file, Notepad++ are text-editors used for this purpose. The programs can be run under  VSC terminal, Cmder, IPython, etc. command lines and cloned to a repository if necessary. For the purpose of this assignment, files are cloned to this repository (programming-and-scripting-2020) via the following URL address: https://github.com/Samjean2020/programming-and-scripting-2020.git using relevant git commands, namely: git init, git clone, git add  . , git commit –m (“comments”), and git push or git pull. Upload files option available at GitHub was also used.
 
 
                                                 Documentation     
@@ -58,7 +58,7 @@ A single-line code in python is enough to provide specific instructions to be ex
 2. Provide float numbers as inputs for both weight and height.
 3. Have height squared.
 4. Solve the problem.
-5. Display the output of the function print()
+5. Execute print()function.
 6. Exit
 
 Source code at: https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
@@ -71,7 +71,7 @@ Source code at: https://docs.python.org/3/library/math.html
 1. Provide a text sequence type: string. 
 2. Use the built-in function len() function to obtain the length of the string (:44). 
 3. Start from end of the string and output every second letter.
-4. Display the results of the function print(). 
+4. Execute print() function. 
 5. Exit.
 
 Source: https://www.w3schools.com/python/ref_func_len.asp
@@ -83,7 +83,7 @@ Source: https://www.w3schools.com/python/ref_func_len.asp
 1. Input a whole number value.
 2. Set a divide to segregate even (modulus with remainder 0) and odd numbers (with the remainder 1).
 3. Deploy a while loop to loop over,the block, until the set Boolean conditions are met.
-4. Display the results of the function print(). 
+4. Execute print()function.
 5. Exit.
 Source: A Whirlwind Tour of Python, p.37-8 (Control Flow).
 
@@ -97,7 +97,7 @@ Source: A Whirlwind Tour of Python, p.37-8 (Control Flow).
 3. Have indexed array items starting at 0 to Monday, ending with 6 to Sunday.
 4. Define a function for weekday and set up an if loop,to loop over until the set Boolean conditions are completed.
 5. Get keyboard input, but convert it to integer.
-6. Print the results of the function
+6. Print the results of the function.
 7. Exit
 Sources: https://rextester.com/OPSU70132
 and : https://pythontic.com/datetime/date/weekday
