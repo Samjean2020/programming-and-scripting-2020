@@ -1,7 +1,7 @@
 # Jean Bonsenge
 
-# This program outputs whether or not today is a weekday.An example of running this program on a Thursday is given below. 
-# An example of running this program on a Saturday is a follows.
+# This program outputs whether or not today is a weekday.
+# An example of running this program on a Thursday is given below. 
 
 # import Python's datetime module
 import datetime
