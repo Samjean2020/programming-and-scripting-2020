@@ -1,6 +1,7 @@
 # Jean Bonsenge
 
 # This program outputs whether or not today is a weekday.
+# This program is ruuning on a Saturday.
 
 import datetime
 
