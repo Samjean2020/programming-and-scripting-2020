@@ -4,7 +4,7 @@
 
                                                 Repository Purpose
 
-Record and present weekly tasks required by the HDip in Computing (Data Analytics) Programming and Scripting Module for January to June 2020 Semester.
+Record and present weekly tasks required by the HDip. in Science in Computing (Data Analytics) Programming and Scripting Module for January to June 2020 Semester.
 
                                                 Repository Content
 
