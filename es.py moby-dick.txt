@@ -17,7 +17,7 @@ with open ('es.py moby-dick.txt') as f:
                 for letter in i:
                     if(letter==l):
                         m=m+1
-# display the results of the function print()
+# display the results.
 print("occurences of the letter: ")
 print(m)
 # I found the above code online at: https://www.sanfoundry.com/python-program-read-file-counts-number/
