@@ -6,7 +6,7 @@
 # Have the program end if the current value is one. 
 
 # input a whole number value
-y = int (input(" Enter any positive integer number: "))
+y = int (input("Please enter a positive integer: "))
 # divide to segregate even (modulus with remainder 0) and odd numbers (with the remainder 1).
 z = 2
 # a while loop is deployed to loop over until set of Boolean conditions are met.
