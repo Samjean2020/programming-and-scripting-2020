@@ -13,7 +13,7 @@ heightSquared = (height/100) ** 2
 # Apply the formula below to solve this problem.
 bmi = weight / heightSquared
 
-# Display the output of the function print()
+# Execute print() function.
 print ("BMI is", bmi)
 
 # I found part of this code at:
