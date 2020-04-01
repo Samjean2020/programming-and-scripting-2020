@@ -17,7 +17,8 @@ while y > 1:
    else:
        y = y * 3 + 1
        print(y)
-# display the results of the function print() 
+      
+# execute print() function
 print()
 
 
